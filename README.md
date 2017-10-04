@@ -1,3 +1,5 @@
+## Chexxers
+
 Chexxers is a game derived from a combination of traits from checkers and chess. The rules are currently in development. Any feedback is appreciated.
 
 The frontend is javascript based using a websocket to talk to a golang backend. The golang server act as a message relay, storing game information in a MongoDB database.
@@ -15,7 +17,7 @@ If you are killing my server, license to use is temporarily removed until such t
 /************************************/`
 
 
-Credits
+### Credits
 
 Multiplayer gameplay inspired by https://github.com/Shoen/phaser_multiplayer_demo
 
